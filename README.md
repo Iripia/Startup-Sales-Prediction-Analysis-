@@ -44,4 +44,4 @@ Yearly Trend and Sales Forecast Analysis:
 - Sales prediction for the next 10 years.
 
 
-![](Dashboard_1-(2).png)
+![](Dashboard_1_(2).png)
