@@ -47,7 +47,7 @@ Three dashboards were made, each a different analysis. Each analysis and the que
 
 
 ## Key Insights
-**Market Potential Estimation:**
+### 1. Market Potential Estimation:
 
 - The startup generated $16.01M in sales revenue and received 99,441 total orders, with 625 orders canceled.
 - The city of São Paulo was the top contributor, generating $2.98M in revenue and 22,586 orders. The regions with the highest sales potential are Sao Paulo, Ibitinga, and Curitiba, which account for the largest share of total sales revenue and orders. The startup should prioritize these regions in its marketing and expansion efforts.
@@ -57,7 +57,7 @@ Three dashboards were made, each a different analysis. Each analysis and the que
 
 
 
-**Product Performance and Order Cancellation:**
+### 2. Product Performance and Order Cancellation:
 - Products with longer descriptions had a slightly positive correlation (0.06) with sales, while more product photos had a weak negative correlation (-0.10) with sales.
 - The "health_beauty" category had the highest sales revenue ($1.448M) and the “bed_bath_table” category had the highest orders (10,019). The top-performing product categories are health_beauty, watches_gifts, and bed_bath_table contributing the highest sales revenue and total orders.
 - The main reasons for order cancellation are related to review scores and payment types, with lower review scores and certain payment methods such as credit card, being associated with higher cancellation rates. The startup should focus on enhancing customer satisfaction and providing reliable payment options.
@@ -68,8 +68,8 @@ Three dashboards were made, each a different analysis. Each analysis and the que
 
 
 
-**Yearly Trend and Sales Forecast:**
-- The startup experienced significant year-over-year growth, with a 20% increase from 2016 to 2017 and a 12113% increase in revenue from 2017 to 2018.
+### 3. Yearly Trend and Sales Forecast:
+- The startup experience significant year-over-year growth, with a 20% increase from 2016 to 2017 and a 12113% increase in revenue from 2017 to 2018.
 - The number of sellers also grew from 145 in 2016 to 2,383 in 2018.
 - Using Power BI's built-in forecasting tool, the sales forecasts project a steady upward trend, reaching over $60M in revenue by 2028 suggesting a promising market opportunity for the startup to capitalize on.
 
