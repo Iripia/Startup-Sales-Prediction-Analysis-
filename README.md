@@ -3,6 +3,12 @@
 
 ![](intro_image.png)
 
+## Table of Contents
+- [Dashboard](dashboard_1)
+- [Key Insights](key-insights)
+- [Recommendations](recommendations)
+
+  
 ## Project Overview
 In this startup sales prediction analysis, I leveraged Olist's comprehensive sales data to provide actionable insights and recommendations to a startup company looking to succeed in the Brazilian e-commerce market. The analysis explored various aspects of sales performance, product attributes, order cancellations, and market trends to guide the startup's strategic decision-making.
 
@@ -44,6 +50,7 @@ Three dashboards were made, each a different analysis. Each analysis and the que
 - What is the total revenue made by year? And identify the growth rate between these years.
 - Analyze the growth of sellers.
 - Sales prediction for the next 10 years.
+
 
 
 ## Key Insights
