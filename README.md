@@ -4,9 +4,9 @@
 ![](intro_image.png)
 
 ## Table of Contents
-- [Dashboard](dashboard_1)
-- [Key Insights](key-insights)
-- [Recommendations](recommendations)
+- [Dashboard](#dashboard_1)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
 
   
 ## Project Overview
